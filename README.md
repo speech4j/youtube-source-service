@@ -1,4 +1,4 @@
-# youtube_mp3_downloader_python
+# youtube-source-service
 Dockerised python script for downloading audio with pytube library
 
 # Use
